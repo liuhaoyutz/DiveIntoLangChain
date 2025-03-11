@@ -1,5 +1,8 @@
 # LangChain_RAG_Agent_from_Scratch
-  
+
+REACT_Agent.py
+基于ReAct机制实现Agent工具调用。
+
 LangChain_tutorial目录下对应LangChain官方文档的如下几篇文章，这里使用本地部署的Qwen2/deepseek-r1服务，解决执行过程中遇到的问题，并进行汉化。  
 https://python.langchain.com/docs/introduction/  
 https://python.langchain.com/docs/tutorials/llm_chain/  
