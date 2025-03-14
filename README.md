@@ -16,4 +16,5 @@ https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
   
 Functions_Tools_and_Agents_with_LangChain目录对应如下视频教程：  
 https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/undefined  
-  
+
+LangGraph_multi_agent目录下是对multi-agent示例的分析。  
