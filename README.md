@@ -1,4 +1,4 @@
-# LangChain_RAG_Agent_from_Scratch
+# DiveIntoLangChain
   
 qwen2_function_call_base_qwen_agent.ipynb  
 基于qwen2实现的function call程序。  
